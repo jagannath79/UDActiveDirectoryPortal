@@ -1,4 +1,8 @@
 # UDActiveDirectoryPortal
+
+![LoginPage.JPG]({{site.baseurl}}/LoginPage.JPG)
+
+
 The Active Directory Portal Built with Universal DashBoard
 
 The Active Directory Portal is built with Universal Dashboard. The Active Directory Portal has 6 main sections/tabs:

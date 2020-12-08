@@ -3,6 +3,11 @@ The Active Directory Portal Built with Universal DashBoard
 
 ![Image of UD](https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/LoginPage.JPG)
 
+Username and Password is currently static and is not integrated with AD
+
+Username: Admin
+Password: Test
+
 The Active Directory Portal is built with Universal Dashboard. The Active Directory Portal has 6 main sections/tabs:
 
 1. Home

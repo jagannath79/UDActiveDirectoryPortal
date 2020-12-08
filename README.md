@@ -51,7 +51,7 @@ AD Groups Tab: This tab gives a feature to display the Group Membership of a Gro
 ![Image of UDADGroups](https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/ADGroups.JPG)
 
 **Note: This feature requires a PS Module ADEssentials**
-**Download Link: [title](https://www.powershellgallery.com/packages/ADEssentials/0.0.102)** 
+**Download Link: [ADEssentials](https://www.powershellgallery.com/packages/ADEssentials/0.0.102)** 
 
 AD OnBoarding Tab: This form creates a new user account depending on the values passed in the form. Note: This feature will not work with lot of the people as I have coded this for a special use case where it connects to the SQL Database to fetch the template account that needs to be copied.
 

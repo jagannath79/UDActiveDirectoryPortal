@@ -12,9 +12,10 @@ The Active Directory Portal is built with Universal Dashboard. The Active Direct
 
 1. Home
 2. AD Users
-3. AD OnBoarding
-4. AD Group Creation
-5. Reports
+3. AD Groups
+4. AD OnBoarding
+5. AD Group Creation
+6. Reports
 
 Note: AD OnBoarding as per the use case that I have followed is little different where it connects to the SQL Database to fetch the account to be copied from.
 

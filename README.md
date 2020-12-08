@@ -25,10 +25,10 @@ Home Tab: This currently does not have any thing in it plan is to add various ch
 ![Image of UDHome](https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/Home.jpg)
 
 AD Users Tab: This has the features to search the AD Account using:
--> SamAccountName / NetworkID
--> FirstName
--> LastName
--> EmployeeID
+* SamAccountName / NetworkID
+* FirstName
+* LastName
+* EmployeeID
 
 ![Image of UDADUsers](https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/ADUsers.JPG)
 

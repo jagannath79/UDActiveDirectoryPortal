@@ -55,7 +55,7 @@ AD Groups Tab: This tab gives a feature to display the Group Membership of a Gro
 
 AD OnBoarding Tab: This form creates a new user account depending on the values passed in the form. Note: This feature will not work with lot of the people as I have coded this for a special use case where it connects to the SQL Database to fetch the template account that needs to be copied.
 
-AD Group Creation Tan: This form creates a new Security Group.
+AD Group Creation Tab: This form creates a new Security Group.
 
 Reports Tab: This tab provides users with different kind of AD Reports, to start with I have added below reports which might not be apt for many people but you can always add you own reports:
 -> Account In DisabledTermsOU

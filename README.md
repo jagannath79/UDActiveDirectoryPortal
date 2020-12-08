@@ -43,6 +43,7 @@ When you search an AD Account with SamAccountName/NetworkID it will display the 
 ![Image of UDADUsers1](https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/ADUsers1.JPG)
 ![Image of UDADUsers2](https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/ADUsers2.JPG)
 ![Image of UDADUsers3](https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/ADUsers3.JPG)
+![Image of UDADUsers4](https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/ADUsers4.JPG)
 
 AD OnBoarding Tab: This form creates a new user account depending on the values passed in the form. Note: This feature will not work with lot of the people as I have coded this for a special use case where it connects to the SQL Database to fetch the template account that needs to be copied.
 

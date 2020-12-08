@@ -30,6 +30,8 @@ AD Users Tab: This has the features to search the AD Account using:
 -> LastName
 -> EmployeeID
 
+![Image of UDADUsers](https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/ADUsers.JPG)
+
 AD OnBoarding Tab: This form creates a new user account depending on the values passed in the form. Note: This feature will not work with lot of the people as I have coded this for a special use case where it connects to the SQL Database to fetch the template account that needs to be copied.
 
 AD Group Creation Tan: This form creates a new Security Group.

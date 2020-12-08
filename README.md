@@ -58,7 +58,7 @@ AD OnBoarding Tab: This form creates a new user account depending on the values 
 AD Group Creation Tab: This form creates a new Security Group.
 
 Reports Tab: This tab provides users with different kind of AD Reports, to start with I have added below reports which might not be apt for many people but you can always add you own reports:
--> Account In DisabledTermsOU
--> No Employee ID tagged for Associate
--> No Employee ID tagged for Non Associate
--> Expired Account Last 7 Days
+* Account In DisabledTermsOU
+* No Employee ID tagged for Associate
+* No Employee ID tagged for Non Associate
+* Expired Account Last 7 Days

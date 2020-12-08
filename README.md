@@ -1,5 +1,5 @@
 # UDActiveDirectoryPortal
-The Active Directory Portal Built with Universal DashBoard
+The Active Directory Portal Built with Universal DashBoard. Universal Dashboard is part of [PowerShell Universal](https://ironmansoftware.com/powershell-universal/)
 
 ![Image of UD](https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/LoginPage.JPG)
 

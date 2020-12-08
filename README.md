@@ -57,6 +57,8 @@ When you search an AD Account with SamAccountName/NetworkID it will display the 
 
 **AD Group Creation Tab:** This form creates a new Security Group.
 
+![Image of UDADGroupCreation1](https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/ADGroupCreation1.JPG)
+
 **Reports Tab:** This tab provides users with different kind of AD Reports, to start with I have added below reports which might not be apt for many people but you can always add you own reports:
 * Account In DisabledTermsOU
 * No Employee ID tagged for Associate

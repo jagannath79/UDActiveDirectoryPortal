@@ -1,6 +1,6 @@
 # UDActiveDirectoryPortal
 
-/https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/LoginPage.JPG)
+(/https://github.com/jagannath79/UDActiveDirectoryPortal/blob/main/LoginPage.JPG)
 
 The Active Directory Portal Built with Universal DashBoard
 

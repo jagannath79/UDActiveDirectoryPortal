@@ -37,6 +37,8 @@ When you search an AD Account with SamAccountName/NetworkID it will display the 
 * User Details
 * Group Membership Details
 * extensionAttribute Details (Here in my case I have taken (extensionAttribute2, extensionAttribute5 and msDS-cloudExtensionAttribute2
+* Other Applicaion Accesses (Here it connects to the in-house SQL DB and quries and returns info)
+* Direct Reports of that user
 
 AD OnBoarding Tab: This form creates a new user account depending on the values passed in the form. Note: This feature will not work with lot of the people as I have coded this for a special use case where it connects to the SQL Database to fetch the template account that needs to be copied.
 

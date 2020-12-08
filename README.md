@@ -5,8 +5,8 @@ The Active Directory Portal Built with Universal DashBoard
 
 Username and Password is currently static and is not integrated with AD
 
-Username: Admin
-Password: Test
+* Username: Admin
+* Password: Test
 
 The Active Directory Portal is built with Universal Dashboard. The Active Directory Portal has 6 main sections/tabs:
 
